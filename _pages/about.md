@@ -13,4 +13,4 @@ I am a second-year MA student in Linguistics at the University of Oxford. My res
 
 Methodologically, I work at the theory–experiment interface: I start from structures and inferences licensed by syntax and formal semantics, and then ask how these theoretical possibilities show up with potentially different effect sizes in acquisition and processing.
 
-Currently I am working on an intensifier-derived analysis of Mandarin ziji, topic and focus Mandarin child-directed speech, focus processing, and verb-doubling. Details coming soon!
+Currently I am working on an intensifier-derived analysis of Mandarin ziji, input evidence of interaction between topic and focus Mandarin child-directed speech, focus processing, and verb-doubling. Details coming soon!
