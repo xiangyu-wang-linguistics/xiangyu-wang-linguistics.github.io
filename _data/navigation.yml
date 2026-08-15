@@ -9,6 +9,9 @@
 
 # main links
 main:
+  - title: "Manuscript"
+    url: /manuscript/
+
   # - title: "Publications"
   #   url: /publications/
 
