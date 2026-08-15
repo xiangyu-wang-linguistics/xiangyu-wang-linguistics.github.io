@@ -11,7 +11,7 @@ redirect_from:
 
 Hello! My name is Xiangyu Wang (/ɕjɑŋ.y wɑŋ/).
 
-I am a second-year MA student in Linguistics at the University of Oxford. My research interests are in syntax, semantics, and language acquisition. Broadly, I am interested in how patterns predicted by syntactic and semantic theory surface not only in controlled, linguist-trimmed datasets, but also in large-scale corpora and in (developing) minds.
+I am a second-year MA student in Linguistics at the University of Oxford. My [departmental profile](https://www.ling-phil.ox.ac.uk/people/xiangyu-wang) is available through the Faculty of Linguistics, Philology and Phonetics. My research interests are in syntax, semantics, and language acquisition. Broadly, I am interested in how patterns predicted by syntactic and semantic theory surface not only in controlled, linguist-trimmed datasets, but also in large-scale corpora and in (developing) minds.
 
 I have worked with Professors [Gillian Ramchand](https://gillianramchand.blog/about/) and [Víctor Acedo-Matellán](https://victoracedomatellan.weebly.com/) to deepen my understanding of the theoretical foundations, formal analyses, and empirical diagnostics used to formulate and investigate questions about verbal and event structure.
 
