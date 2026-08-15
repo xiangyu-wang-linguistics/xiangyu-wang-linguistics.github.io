@@ -2,6 +2,7 @@
 layout: single
 title: "CV"
 permalink: /cv/
+description: "Curriculum vitae of Xiangyu Wang, a linguist at the University of Oxford working on syntax, semantics, language acquisition, and computational linguistics."
 author_profile: true
 redirect_from:
   - /resume

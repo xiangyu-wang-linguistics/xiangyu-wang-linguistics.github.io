@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "About Me"
+title: "About Xiangyu Wang"
+description: "Xiangyu Wang is an Oxford linguist researching syntax, semantics, language acquisition, Mandarin Chinese, and computational linguistics."
 author_profile: true
 redirect_from: 
   - /about/
