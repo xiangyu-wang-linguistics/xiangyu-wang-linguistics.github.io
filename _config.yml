@@ -39,7 +39,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=DDLCrv8AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            :
@@ -152,7 +152,7 @@ social:
   type                   : Person
   name                   : "Xiangyu Wang"
   links:
-    - "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+    - "https://scholar.google.com/citations?hl=en&user=DDLCrv8AAAAJ"
     - "https://github.com/xiangyu-wang-linguistics"
 
 
