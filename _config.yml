@@ -18,10 +18,9 @@ url                      : "https://xiangyu-wang-linguistics.github.io" # The ba
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiangyu-wang-linguistics/xiangyu-wang-linguistics.github.io"
 
-# Keep the published site out of search-engine results. Crawlers must still be
-# able to read each HTML page so that they can see the site-wide noindex rule in
-# _includes/seo.html.
-search_engine_indexing   : false
+# Allow search engines to index public pages. Individual pages can still opt out
+# by setting `noindex: true` in their front matter.
+search_engine_indexing   : true
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -314,6 +313,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 
@@ -322,6 +322,7 @@ whitelist:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
 

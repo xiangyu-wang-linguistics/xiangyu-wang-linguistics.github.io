@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the posts and pages found on the site.
+A list of all the posts and pages found on the site. For search engines, an [XML version]({{ base_path }}/sitemap.xml) is also available.
 
 <h2>Pages</h2>
 {% for post in site.pages %}
