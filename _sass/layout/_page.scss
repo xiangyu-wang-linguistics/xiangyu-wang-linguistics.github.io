@@ -107,6 +107,37 @@
   }
 }
 
+.cv-pdf__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75em;
+  margin-bottom: 1em;
+
+  .btn {
+    margin-bottom: 0;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+.cv-pdf__viewer {
+  display: block;
+  width: 100%;
+  height: calc(100vh - 8.5em);
+  min-height: 44em;
+  background-color: #fff;
+  border: 1px solid var(--global-border-color);
+  border-radius: $border-radius;
+
+  @include breakpoint(max-width $small) {
+    height: 70vh;
+    min-height: 32em;
+  }
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;
