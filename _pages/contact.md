@@ -5,7 +5,7 @@ description: "Contact Xiangyu Wang about linguistics research, collaboration, or
 author_profile: true
 ---
 
-You are welcome to get in touch about research, collaboration, or academic questions. Fill in the form below, then select **Open email draft**. Your email app will open a message addressed to my UCSC account, where you can review and send it.
+You are very much welcome to get in touch about research, collaboration, or academic questions related to verbal/event domains. Fill in the form below, then select **Open email draft**. Your email app will open a message addressed to my UCSC account, where you can review and send it.
 
 <form id="contact-form" class="contact-form" action="mailto:xwang469@ucsc.edu?subject=Website%20contact" method="post" enctype="text/plain" aria-describedby="contact-form-note">
   <label for="contact-name">Name</label>
