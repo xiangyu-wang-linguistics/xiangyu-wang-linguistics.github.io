@@ -34,12 +34,14 @@ author:
   location         : "Oxford"
   employer         : "Oxford University"
   uri              : # URL
-  email            : "xiangyu.wang@ling-phil.ox.ac.uk" 
+  email            : "xiangyu.wang@ling-phil.ox.ac.uk"
+  email_secondary  : "xwang469@ucsc.edu"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=DDLCrv8AAAAJ"
+  openreview       : "https://openreview.net/profile?id=%7EXiangyu_Wang24"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            :
