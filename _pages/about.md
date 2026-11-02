@@ -11,9 +11,9 @@ redirect_from:
 
 Hello! My name is Xiangyu Wang (/ɕjɑŋ.y wɑŋ/).
 
-I graduated from the University of Oxford with an MPhil in Linguistics, Philology and Phonetics, a two-year master's degree. My [departmental profile](https://www.ling-phil.ox.ac.uk/people/xiangyu-wang) is available through the Faculty of Linguistics, Philology and Phonetics. My research interests are in syntax, semantics, and language acquisition. Broadly, I am interested in how patterns predicted by syntactic and semantic theory surface not only in controlled, linguist-trimmed datasets, but also in large-scale corpora and in (developing) minds.
+I graduated from the University of Oxford with an MPhil in Linguistics, Philology and Phonetics, a two-year master's degree. My research interests are in syntax, semantics, and language acquisition. Broadly, I am interested in how patterns predicted by syntactic and semantic theory surface not only in controlled, linguist-trimmed datasets, but also in large-scale corpora and in (developing) minds.
 
-I have worked with Professors [Gillian Ramchand](https://gillianramchand.blog/about/) and [Víctor Acedo-Matellán](https://victoracedomatellan.weebly.com/) to deepen my understanding of the theoretical foundations, formal analyses, and empirical diagnostics used to formulate and investigate questions about verbal and event structure.
+I have worked with Professors [Gillian Ramchand](https://gillianramchand.blog/about/) and [Víctor Acedo-Matellán](https://victoracedomatellan.weebly.com/) to deepen my understanding of the theoretical foundations, formal analyses, and empirical diagnostics used to formulate and investigate questions about verbal and event structure. For my undergraduate dissertation, supervised by Professor Yanhui Zhang, I investigated how surprisal computed over different context sizes could predict the age of acquisition of nouns and verbs across languages.
 
 Methodologically, I work at the theory–experiment interface: I start from structures and inferences licensed by syntax and formal semantics, and then ask how these theoretical possibilities show up with potentially different effect sizes in acquisition and processing.
 
