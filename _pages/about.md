@@ -15,6 +15,6 @@ I graduated from the University of Oxford with an MPhil in Linguistics, Philolog
 
 I have worked with Professors [Gillian Ramchand](https://gillianramchand.blog/about/) and [Víctor Acedo-Matellán](https://victoracedomatellan.weebly.com/) to deepen my understanding of the theoretical foundations, formal analyses, and empirical diagnostics used to formulate and investigate questions about verbal and event structure. For my undergraduate dissertation, supervised by Professor Yanhui Zhang, I investigated how surprisal computed over different context sizes could predict the age of acquisition of nouns and verbs across languages.
 
-Methodologically, I work at the theory–experiment interface: I start from structures and inferences licensed by syntax and formal semantics, and then ask how these theoretical possibilities show up with potentially different effect sizes in acquisition and processing.
+Methodologically, I work at the interface of theory and experiment: I start from structures and inferences licensed by syntax and formal semantics, and ask how these theoretical possibilities are reflected in acquisition and processing. I use corpus evidence as a first step toward assessing whether learners might use the relevant cues.
 
 Currently I am working on an intensifier-derived analysis of Mandarin ziji, input evidence of interaction between topic and focus Mandarin child-directed speech, focus processing, and verb-doubling. Details coming soon!
