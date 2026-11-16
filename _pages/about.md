@@ -17,4 +17,4 @@ I have worked with Professors [Gillian Ramchand](https://gillianramchand.blog/ab
 
 Methodologically, I work at the interface of theory and experiment: I start from structures and inferences licensed by syntax and formal semantics, and ask how these theoretical possibilities are reflected in acquisition. I mainly use corpus evidence as a first step toward assessing whether learners might use the relevant cues.
 
-Currently I am working on an intensifier-derived analysis of Mandarin ziji, input evidence of interaction between topic and focus Mandarin child-directed speech, focus processing, and verb-doubling. Details coming soon!
+Previously I worked on an intensifier-derived analysis of Mandarin ziji, input evidence of focus-sensitive markers Mandarin child-directed speech, focus processing, and verb-doubling. 
